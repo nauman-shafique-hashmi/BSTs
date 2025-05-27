@@ -31,21 +31,11 @@ VAT No.: OM1100187283
 
 ---
 
-## 📦 Scope of Services
+## 📦 Deliverbales
 
 ### 🔹 Website Design & Development – **600 OMR**
-- WordPress + Elementor, mobile-responsive, CMS-integrated  
-- SEO-ready, contact form, project showcase
-- Contact form integration
-- Google Map Integration  
-- Page count to be based on provided content
-- 
-
----
-## 📦 Scope of Services
-
-## 🔧 Website Design & Development – **500 OMR**
-
+- **platfrom**:WordPress + Elementor
+- Pages mentioned are based on reference PDF provided  
 ### ✨ Scope Includes:
 - **Home Page** – Company intro, mission, and recent highlights  
 - **About Us** – History, leadership, and vision/mission statements  
@@ -64,8 +54,7 @@ VAT No.: OM1100187283
 - Visual CMS editing with Elementor  
 - Language-ready (option to add Arabic version)  
 - Google Maps & WhatsApp integration  
-- Social media links & file downloads (e.g., company profile PDF)
-
+- Social media links & file downloads (e.g., company profile PDF)  
 ---
 
 ## 📦 Complete Brand Kit Design – 100 OMR
