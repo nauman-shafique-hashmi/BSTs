@@ -39,28 +39,57 @@ Al Mawaleh, Sultanate of Oman
 
 ---
 
-### 🔹 Complete Brand Kit Design – **150 OMR**
+
+## 📦 Complete Brand Kit Design – 250 OMR
 Includes:
-- Logo suite (primary + variations) in PNG, PDF, and vector formats  
-- Color palette (HEX, RGB, CMYK)  
-- Typography system  
-- Business card (print-ready)  
-- Company letterhead (editable)  
-- Invoice template (Excel + PDF)  
-- Email signature design  
-- Social media profile icons and **covers**  
-- **Brand Guidelines:** A custom PDF document detailing how to use your logo, naming fonts, colors, and other brand elements  
+
+### 🔹 Logo Design
+- Primary logo + alternate versions (horizontal, stacked, icon only)
+- Black & white + color variations
+- Delivered in high-res PNG, PDF, and vector formats (SVG, AI)
+
+### 🔹 Color Palette
+- Primary & secondary colors
+- HEX, RGB, and CMYK codes
+
+### 🔹 Typography System
+- Heading & body fonts for digital and print
+
+### 🔹 Business Essentials
+- Business card (front & back layout, print-ready)
+- Company letterhead (editable template – PDF + Word/Google Docs)
+- Invoice template (Excel/Google Sheets + PDF)
+- Email signature (compatible with Outlook/Gmail)
+
+### 🔹 Social Media Branding
+- Social media profile graphics (logo versions for profile images)
+- Social cover banners (Facebook, LinkedIn, etc.)
+- Ready-to-upload formats with file size optimization
+
+### 🔹 Brand Guidelines Document
+- PDF manual with logo usage rules, spacing, tone, color, and typography guides
 
 ---
 
-### 🔹 Social Media Handle Setup – **100 OMR**  
-- Facebook, Instagram, and LinkedIn setup  
-- Profile branding, bio writing, cover/banner design  
-- Fully uploaded and optimized  
+## 🔁 Updated Quotation Table (Revised)
+
+| Service Description               | Cost (OMR) |
+|----------------------------------|------------|
+| Website Design & Development     | 500        |
+| – WordPress + Elementor, responsive, SEO-ready, CMS-enabled |            |
+| – Page count based on final content (ref. company profile PDF) |            |
+| Complete Brand Kit Design        | 250        |
+| – Logo + color palette + typography |        |
+| – Business card, letterhead, invoice, email signature |        |
+| – Social profiles and covers, brand guideline PDF |        |
+| Social Media Handle Setup        | 100        |
+| – Facebook, Instagram, LinkedIn (branding + setup) |        |
+| **Total (Excl. VAT)**            | **850 OMR** |
 
 ---
 
-## 💰 **Total (Excluding VAT): 750 OMR**  
+_Note: All prices are in Omani Rial (OMR)_
+ **Total (Excluding VAT): 750 OMR**  
 _Note: All prices are in Omani Rial (OMR)_
 
 ---
