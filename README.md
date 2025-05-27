@@ -1,9 +1,8 @@
 
 <h1 align="center">🧾 BSTs Project Quotation</h1>
 <h6 align="center">
-TVA non applicable – Article 293B du CGI, France </h6><br>
-<h6>Date: 27 May 2025 | Valid Until: 15 June 2025  
-</h6>
+TVA non applicable – Article 293B du CGI, France </h6>  
+<h6>Date: 27 May 2025 | Valid Until: 15 June 2025</h6>
 
 ---
 
@@ -34,7 +33,7 @@ Al Mawaleh, Sultanate of Oman
 
 ## 📦 Scope of Services
 
-### 🔹 Website Design & Development – **500 OMR**
+### 🔹 Website Design & Development – **600 OMR**
 - WordPress + Elementor, mobile-responsive, CMS-integrated  
 - SEO-ready, contact form, project showcase  
 - Page count to be based on provided content  
@@ -42,7 +41,7 @@ Al Mawaleh, Sultanate of Oman
 ---
 
 
-## 📦 Complete Brand Kit Design – 150 OMR
+## 📦 Complete Brand Kit Design – 100 OMR
 Includes:
 
 ### 🔹 Logo Design
@@ -62,7 +61,7 @@ Includes:
 - Invoice template (Excel/Google Sheets + PDF)
 - Email signature (compatible with domain_email/Outlook/Gmail)
 
-### 🔹 Social Media Branding
+### 🔹 Social Media Branding –50 OMR
 - Social media profile graphics (logo versions for profile images)
 - Social cover banners (Facebook, LinkedIn, etc.)
 - Ready-to-upload formats with file size optimization
