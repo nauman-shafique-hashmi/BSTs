@@ -35,11 +35,38 @@ VAT No.: OM1100187283
 
 ### 🔹 Website Design & Development – **600 OMR**
 - WordPress + Elementor, mobile-responsive, CMS-integrated  
-- SEO-ready, contact form, project showcase  
-- Page count to be based on provided content  
+- SEO-ready, contact form, project showcase
+- Contact form integration
+- Google Map Integration  
+- Page count to be based on provided content
+- 
 
 ---
+## 📦 Scope of Services
 
+## 🔧 Website Design & Development – **500 OMR**
+
+### ✨ Scope Includes:
+- **Home Page** – Company intro, mission, and recent highlights  
+- **About Us** – History, leadership, and vision/mission statements  
+- **Services** – Breakdown of core activities:
+  - UG/OH cable construction  
+  - Fiber optics: trenching, pulling, splicing, testing  
+  - Horizontal Directional Drilling (HDD)  
+  - Asphalt & concrete works  
+  - General contracting & construction supervision  
+- **Projects/Clients Page** – Notable clients (DPC, OBB, Ooredoo, Omantel, MM) + sample project images  
+- **Equipment Page** – Fleet showcase with categories and counts  
+- **Contact Page** – Inquiry form, map, contact numbers  
+
+### ⚙️ Key Features:
+- Mobile-responsive, SEO-ready  
+- Visual CMS editing with Elementor  
+- Language-ready (option to add Arabic version)  
+- Google Maps & WhatsApp integration  
+- Social media links & file downloads (e.g., company profile PDF)
+
+---
 
 ## 📦 Complete Brand Kit Design – 100 OMR
 Includes:
