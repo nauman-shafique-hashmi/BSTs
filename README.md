@@ -11,9 +11,10 @@ Project folder for blue sky technical services company OMAN
 
 **Nauman Shafique HASHMI**  
 Registered Micro-entrepreneur – Web Developer
+
 Endoscopic Image Processing Research Engineer | ImViA, Dijon. 
 **SIREN:** 939089223  
-8 Rue Galoche, Bâtiment F, 1er étage  
+8 Rue Galoche, Bâtiment F, 1er étage porte droite
 Dijon 21000, France  
 📧 nauman@landlory.com  
 📞 +33 7 53 69 28 74  
