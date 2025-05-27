@@ -22,13 +22,13 @@ Dijon 21000, France
 
 ## **To:**  
 
-**Al Maqar Trading & Contracting Co. LLC**   
+**Al Maqar Trading & Contracting Co. LLC**     
 C.R. No.: 1028661  
 P.O. Box 1393, Postal Code 112  
 Al Mawaleh, Sultanate of Oman  
 📧 maqardhofar@gmail.com  
 📞 +968 96422323 / 97862323  
-**VAT No.:** OM1100187283  
+**VAT No.:** OM1100187283    
 ---
 
 ## 📦 Scope of Services
