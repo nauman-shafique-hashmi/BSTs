@@ -1,4 +1,4 @@
-# 🧾 Professional Quotation  
+# 🧾 BSTs Project Quotation  
 **TVA non applicable – Article 293B du CGI**  
 **Date:** 27 May 2025 | **Valid Until:** 15 June 2025
 
@@ -34,11 +34,11 @@ Al Mawaleh, Sultanate of Oman
 ### 🔹 Website Design & Development – **500 OMR**
 - WordPress + Elementor, mobile-responsive, CMS-integrated  
 - SEO-ready, contact form, project showcase  
-- **Page count to be based on provided content (reference PDF)**  
+- Page count to be based on provided content 
 
 ---
 
-### 🔹 Complete Brand Kit Design – **250 OMR**
+### 🔹 Complete Brand Kit Design – **150 OMR**
 Includes:
 - Logo suite (primary + variations) in PNG, PDF, and vector formats  
 - Color palette (HEX, RGB, CMYK)  
@@ -47,33 +47,32 @@ Includes:
 - Company letterhead (editable)  
 - Invoice template (Excel + PDF)  
 - Email signature design  
-- Social media profile icons and **cover banners**  
-- **Brand Guidelines** PDF for usage consistency  
-
+- Social media profile icons and **covers**  
+- **Brand Guidelines** a custom PDF document detialing how to use your logo, naming fonts, colors, and other brand elements  
 ---
 
-### 🔹 Social Media Handle Setup – **100 OMR**
+### 🔹 Social Media Handle Setup – **100 OMR**  
 - Facebook, Instagram, and LinkedIn setup  
 - Profile branding, bio writing, cover/banner design  
 - Fully uploaded and optimized  
 
 ---
 
-## 💰 **Total (Excluding VAT): 850 OMR**
+## 💰 **Total (Excluding VAT): 750 OMR**
 
 ---
 
 ## 💳 Payment Terms
-- 50% advance to initiate project: **425 OMR**  
-- 50% upon final delivery and approval: **425 OMR**  
+- 50% advance to initiate project: **375 OMR**  
+- 50% upon final delivery and approval: **375 OMR**  
 - Payment via international bank transfer or Wise  
 
 ---
 
 ## ⏱ Estimated Timeline
-- Website: 5–7 working days from content receipt  
-- Brand Kit: 5 working days from logo concept approval  
-- Social Media Setup: 3–4 working days  
+- Website: 3–7 working days from content receipt  
+- Brand Kit: 2-3 working days from logo approval  
+- Social Media Setup: 1–2 working days  
 
 ---
 
@@ -95,4 +94,4 @@ Includes:
 
 ---
 
-**Thank you for considering my services to support Al Maqar Trading & Contracting’s digital presence. I look forward to delivering a clean, professional, and lasting solution.**
+**Thank you for considering my services. I look forward to delivering a clean, professional, and lasting solution.**
