@@ -9,8 +9,9 @@
 ## **Issued by:**
 
 **Nauman Shafique HASHMI**  
-Registered Micro-entrepreneur – Web Developer  
-**SIREN:** 939089223  
+Registered Micro-entrepreneur – Web Developer      
+Multi-spectal imaging python developer | ImViA Dijon  
+**SIREN:** 939089223
 8 Rue Galoche, Bâtiment F, 1er étage porte droite  
 Dijon 21000, France  
 📧 nauman@landlory.com  
