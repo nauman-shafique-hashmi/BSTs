@@ -1,5 +1,5 @@
 # 🧾 BSTs Project Quotation  
-**TVA non applicable – Article 293B du CGI**  
+**TVA non applicable – Article 293B du CGI, France**  
 **Date:** 27 May 2025 | **Valid Until:** 15 June 2025
 
 ---
