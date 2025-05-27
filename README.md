@@ -1,7 +1,7 @@
 
 <h1 align="center">🧾 BSTs Project Quotation</h1>
 <h6 align="center">
-<b>Ref: BSTS-Q1-2025 | TVA non applicable – Article 293B du CGI, France </h6> </b>
+<b>Ref: BSTS-Q1-2025  |    TVA non applicable – Article 293B du CGI, France </b> </h6>
 <h6 align="center">Date: 27 May 2025 | Valid Until: 15 June 2025</h6>
 
 ---
