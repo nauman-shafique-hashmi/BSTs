@@ -14,13 +14,13 @@ Registered Micro-entrepreneur – Web Developer
 Endoscopic Image Processing Research Engineer | ImViA, Dijon.  
 **SIREN:** 939089223  
 8 Rue Galoche, Bâtiment F, 1er étage porte droite
-Dijon 21000, France  
+Dijon 21000, France 
 📧 nauman@landlory.com  
 📞 +33 7 53 69 28 74  
 
 ---  
 
-## **To:**  
+## **To:**    
 
 **Al Maqar Trading & Contracting Co. LLC**     
 C.R. No.: 1028661  
