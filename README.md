@@ -10,7 +10,8 @@ Project folder for blue sky technical services company OMAN
 ## **Issued by:**
 
 **Nauman Shafique HASHMI**  
-Registered Micro-entrepreneur – Web & Brand Development  
+Registered Micro-entrepreneur – Web Developer
+Endoscopic Image Processing Research Engineer | ImViA, Dijon. 
 **SIREN:** 939089223  
 8 Rue Galoche, Bâtiment F, 1er étage  
 Dijon 21000, France  
