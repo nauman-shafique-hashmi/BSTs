@@ -1,4 +1,6 @@
-# 🧾 BSTs Project Quotation  
+
+<h1 align="center">🧾 BSTs Project Quotation</h1>
+
 **TVA non applicable – Article 293B du CGI, France**  
 **Date:** 27 May 2025 | **Valid Until:** 15 June 2025
 
@@ -8,7 +10,6 @@
 
 **Nauman Shafique HASHMI**  
 Registered Micro-entrepreneur – Web Developer  
-Endoscopic Image Processing Research Engineer | ImViA, Dijon.  
 **SIREN:** 939089223  
 8 Rue Galoche, Bâtiment F, 1er étage porte droite  
 Dijon 21000, France  
@@ -34,7 +35,7 @@ Al Mawaleh, Sultanate of Oman
 ### 🔹 Website Design & Development – **500 OMR**
 - WordPress + Elementor, mobile-responsive, CMS-integrated  
 - SEO-ready, contact form, project showcase  
-- Page count to be based on provided content 
+- Page count to be based on provided content  
 
 ---
 
@@ -48,7 +49,8 @@ Includes:
 - Invoice template (Excel + PDF)  
 - Email signature design  
 - Social media profile icons and **covers**  
-- **Brand Guidelines** a custom PDF document detialing how to use your logo, naming fonts, colors, and other brand elements  
+- **Brand Guidelines:** A custom PDF document detailing how to use your logo, naming fonts, colors, and other brand elements  
+
 ---
 
 ### 🔹 Social Media Handle Setup – **100 OMR**  
@@ -58,7 +60,8 @@ Includes:
 
 ---
 
-## 💰 **Total (Excluding VAT): 750 OMR**
+## 💰 **Total (Excluding VAT): 750 OMR**  
+_Note: All prices are in Omani Rial (OMR)_
 
 ---
 
@@ -71,7 +74,7 @@ Includes:
 
 ## ⏱ Estimated Timeline
 - Website: 3–7 working days from content receipt  
-- Brand Kit: 2-3 working days from logo approval  
+- Brand Kit: 2–3 working days from logo approval  
 - Social Media Setup: 1–2 working days  
 
 ---
@@ -93,5 +96,7 @@ Includes:
 - Website structure adapts to content provided by the client  
 
 ---
+
+_This quotation reflects freelance services offered by Nauman Hashmi and does not represent any institution or employer._
 
 **Thank you for considering my services. I look forward to delivering a clean, professional, and lasting solution.**
