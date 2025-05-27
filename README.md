@@ -18,11 +18,11 @@ Dijon 21000, France
 📧 nauman@landlory.com  
 📞 +33 7 53 69 28 74  
 
----
+---  
 
-## **To:**
+## **To:**  
 
-Al Maqar Trading & Contracting Co. LLC   
+**Al Maqar Trading & Contracting Co. LLC**   
 C.R. No.: 1028661  
 P.O. Box 1393, Postal Code 112  
 Al Mawaleh, Sultanate of Oman  
