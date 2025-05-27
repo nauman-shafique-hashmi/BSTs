@@ -1,6 +1,4 @@
-# 🧾 Professional Quotation
-<h1 style="text-align:center;">🧾 Professional Quotation</h1>
-
+# 🧾 Professional Quotation  
 **TVA non applicable – Article 293B du CGI**  
 **Date:** 27 May 2025 | **Valid Until:** 15 June 2025
 
