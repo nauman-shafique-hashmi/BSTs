@@ -27,7 +27,7 @@ P.O. Box 1393, Postal Code 112
 Al Mawaleh, Sultanate of Oman  
 📧 maqardhofar@gmail.com  
 📞 +968 96422323 / 97862323  
-**VAT No.:** OM1100187283  
+VAT No.: OM1100187283  
 
 ---
 
@@ -48,11 +48,7 @@ Includes:
 - Primary logo + alternate versions (horizontal, stacked, icon only)
 - Black & white + color variations
 - Delivered in high-res PNG, PDF, and vector formats (SVG)
-
-### 🔹 Color Palette
 - HEX, RGB, and CMYK codes
-
-### 🔹 Typography System
 - Heading & body fonts for digital and print
 
 ### 🔹 Business Essentials
