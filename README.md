@@ -1,8 +1,9 @@
 
 <h1 align="center">🧾 BSTs Project Quotation</h1>
-
+<h6 align="center">
 **TVA non applicable – Article 293B du CGI, France**  
 **Date:** 27 May 2025 | **Valid Until:** 15 June 2025
+</h6>
 
 ---
 
@@ -71,7 +72,7 @@ Includes:
 
 ---
 
-## 🔁 Updated Quotation Table (Revised)
+## 🔁  Quotation Summary Table 
 
 | Service Description               | Cost (OMR) |
 |----------------------------------|------------|
@@ -88,7 +89,6 @@ Includes:
 
 ---
 
-_Note: All prices are in Omani Rial (OMR)_
  **Total (Excluding VAT): 750 OMR**  
 _Note: All prices are in Omani Rial (OMR)_
 
