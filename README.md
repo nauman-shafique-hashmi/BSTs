@@ -33,10 +33,10 @@ VAT No.: OM1100187283
 
 ## 📦 Deliverbales
 
-### 🔹 Website Design & Development – **600 OMR**
+#### 🔹 Website Design & Development – **600 OMR**
 - **platfrom**:WordPress + Elementor
 - Pages mentioned are based on reference PDF provided  
-### ✨ Scope Includes:
+#### ✨ Scope Includes:
 - **Home Page** – Company intro, mission, and recent highlights  
 - **About Us** – History, leadership, and vision/mission statements  
 - **Services** – Breakdown of core activities:
@@ -49,7 +49,7 @@ VAT No.: OM1100187283
 - **Equipment Page** – Fleet showcase with categories and counts  
 - **Contact Page** – Inquiry form, map, contact numbers  
 
-### ⚙️ Key Features:
+#### ⚙️ Key Features:
 - Mobile-responsive, SEO-ready  
 - Visual CMS editing with Elementor  
 - Language-ready (option to add Arabic version)  
@@ -57,7 +57,7 @@ VAT No.: OM1100187283
 - Social media links & file downloads (e.g., company profile PDF)  
 ---
 
-## 📦 Complete Brand Kit Design – 100 OMR
+### 📦 Compnay Branding Kit Design – 100 OMR
 Includes:
 
 ### 🔹 Logo Design
