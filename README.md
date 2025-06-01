@@ -9,8 +9,8 @@
 ## **Issued by:**
 
 **Nauman Shafique HASHMI**  
-Registered Micro-entrepreneur – Web Developer      
-Multi-spectal imaging Python developer | ImViA Dijon  
+Multi-spectal imaging Python developer | ImViA Dijon 
+Registered Micro-entrepreneur – Web Developer       
 **SIREN:** 939089223  
 8 Rue Galoche, Bâtiment F, 1er étage porte droite  
 Dijon 21000, France  
