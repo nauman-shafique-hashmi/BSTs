@@ -125,7 +125,7 @@ _Note: All prices are in Omani Rial (OMR)_
 | Add-On                             | Cost (OMR) |
 |-----------------------------------|------------|
 | Arabic version of website         | 50        |
-| Monthly website maintenance       | 25         |
+| Website maintenance       | 25/month         |
 | On-page SEO optimization          | 75         |
 | Social media content calendar     | On request |
 
