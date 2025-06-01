@@ -1,8 +1,8 @@
 
-<h1 align="center">🧾 BSTs Project Quotation</h1>
+<h1 align="center">🧾 Al Maqar Trading & Contracting Co. LLC Project Quotation</h1>
 <h6 align="center">
 <b>Ref: BSTS-Q1-2025 </b>  |    **TVA non applicable** – Article 293B du CGI, France  </h6>
-<h6 align="center">Date: 27 May 2025 | Valid Until: 15 June 2025</h6>
+<h6 align="center">Date: 01 May 2025 | Valid Until: 15 June 2025</h6>
 
 ---
 
@@ -10,7 +10,7 @@
 
 **Nauman Shafique HASHMI**  
 Registered Micro-entrepreneur – Web Developer      
-Multi-spectal imaging python developer | ImViA Dijon  
+Multi-spectal imaging Python developer | ImViA Dijon  
 **SIREN:** 939089223  
 8 Rue Galoche, Bâtiment F, 1er étage porte droite  
 Dijon 21000, France  
