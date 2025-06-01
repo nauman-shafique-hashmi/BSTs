@@ -84,7 +84,7 @@ VAT No.: OM1100187283
   - Profile image and cover banner setup  
   - Bio and contact details configuration  
   - Initial account settings for visibility and engagement  
-- **Revisions:** Up to 2 round of revisions included; additional revisions at 11 OMR/hour  
+- **Revisions:** Up to 2 rounds of revisions included; additional revisions at 11 OMR/hour  
 
 ---
 
@@ -96,8 +96,8 @@ VAT No.: OM1100187283
 | Company Branding Kit (Logo, business card, letterhead, invoice, email signature, brand guidelines) | 150 |
 | Social Media Setup & Branding (Facebook, Instagram, LinkedIn profile and cover graphics) | 50 |
 | **Total (Excl. VAT)** | **800 OMR** |
-**Prcing Value and Market comparison:**
-The total of 800 OMR reflects a competitive rate for a comprehensive website, branding, and social media package. In Oman, similar freelance projects for small-to-medium businesses typically range from 800–1,500 OMR, and  agencies charge 1,200–2,500 OMR for comparable work. Working with us you'll have higly qualifid people for the job, that will surpass your expectation. Additinally you have a direct point of contact with me for any query.  ***Therefore, please mind that our rates are non-negotiable***
+**Pricing Value and Market comparison:**
+The total of 800 OMR is highly competitive for a comprehensive website, branding, and social media package, aligned with 2025 Oman market standards (freelance: 800–1,500 OMR; agencies: 1,200–2,500 OMR) for comparable work. Leveraging our expertise in web development and branding, this package delivers exceptional value, saving you 400–1,700 OMR compared to agency rates. ***Therefore, our rates are fixed to reflect this tailored solution.***
 
 *Note: All prices are in Omani Rial (OMR). Payments accepted in OMR or EUR via international bank transfer or Wise. Bank details provided upon acceptance.*
 
@@ -130,7 +130,7 @@ The total of 800 OMR reflects a competitive rate for a comprehensive website, br
 ---
 ##### 📌 Notes
 - **Content Requirements:** Client to provide text, images, and PDF content within 3 days of project start to meet timelines.  
-- **Hosting & Domain:** A 1-year plan for the domain and dedicated hosting server is included. If a premium domain is required, it can be arranged separately upon request.
+- **Hosting & Domain:** A 1-year plan for the domain and shared hosting server upto 20GB storage is included. If a premium domain is required, it can be arranged separately upon request.
 - **Deliverables:** Final website, branding files, and CMS access released upon full payment.  
 - **Confidentiality:** This quotation is confidential and intended exclusively for Al Maqar Trading & Contracting Co. LLC. It must not be shared, distributed, or disclosed to any third party or company without prior written consent.
 
