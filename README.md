@@ -1,6 +1,6 @@
 
 <h1 align="center">🧾 Project Quotation</h1>
-<h1 align="center">Al Maqar Trading & Contracting Co. LLC Project Quotation</h1>
+<h1 align="center">Al Maqar Trading & Contracting Co. LLC</h1>
 <h6 align="center">
 <b>Ref: BSTS-Q1-2025 </b>  |    **TVA non applicable** – Article 293B du CGI, France  </h6>
 <h6 align="center">Date: 01 May 2025 | Valid Until: 15 June 2025</h6>
