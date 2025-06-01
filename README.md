@@ -30,10 +30,6 @@ VAT No.: OM1100187283
 
 ---
 
-## **Why Choose Us?**
-With extensive experience in Python development, web design, and multi-spectral imaging, we deliver tailored, high-quality solutions that align with your business goals. Our proven track record with corporate clients ensures a professional, reliable, and visually appealing outcome for your brand and online presence.
-
----
 
 ## 📦 Deliverables
 
@@ -58,10 +54,10 @@ With extensive experience in Python development, web design, and multi-spectral 
   - Multi-language support (option to add Arabic version)  
   - Google Maps and WhatsApp integration  
   - Social media links and file downloads (e.g., company profile PDF)  
-- **Revisions:** Up to 2 rounds of revisions included; additional revisions at 25 OMR/hour  
+- **Revisions:** Up to 5 rounds of revisions included; additional revisions at 5 OMR/hour  
 
 ### 🔹 Company Branding Kit Design – 100 OMR
-- **Logo Design:**
+- **Logo Design: ( I undrestand you already have a logo but it is in pdf file and can not be used for evey use case so the same need to be recreated**
   - Primary logo + alternate versions (horizontal, stacked, icon-only)  
   - Black & white + color variations  
   - Delivered in high-res PNG, PDF, and vector SVG formats  
@@ -78,7 +74,7 @@ With extensive experience in Python development, web design, and multi-spectral 
   - Ready-to-upload formats with file size optimization  
 - **Brand Guidelines Document:**
   - PDF manual with logo usage rules, spacing, tone, color, and typography guides  
-- **Revisions:** Up to 2 rounds of revisions included; additional revisions at 25 OMR/hour  
+- **Revisions:** Up to 5 rounds of revisions included; additional revisions at 5 OMR/hour  
 
 ### 🔹 Social Media Setup & Branding – 50 OMR
 - **Scope:** Account creation, profile optimization, and branding for Facebook, Instagram, and LinkedIn  
