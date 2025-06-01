@@ -1,22 +1,13 @@
-# 🧾 Project Quotation 
-## Al Maqar Trading & Contracting Co. LLC
-**Ref: BSTS-Q1-2025** | **TVA non applicable** – Article 293B du CGI, France  
-**Date:** 01 June 2025 | **Valid Until:** 15 June 2025
-
----
-
-## **Issued by:**
-
-**Nauman Shafique Hashmi**  
-Multi-Spectral Imaging Python Developer | ImViA Dijon  
-Registered Micro-Entrepreneur – Web Developer  
-**SIREN:** 939089223  
-8 Rue Galoche, Bâtiment F, 1er étage porte droite  
-Dijon 21000, France  
-📧 nauman@landlory.com  
-📞 +33 7 53 69 28 74  
-
----
+<div style="background-color: #f5f5f5; padding: 10px; border-bottom: 2px solid #4CAF50; text-align: center;">
+  <h2>Nauman Shafique Hashmi</h2>
+  <p>Multi-Spectral Imaging Python Developer | Web Developer | SIREN: 939089223</p>
+  <p>📧 nauman@landlory.com | 📞 +33 7 53 69 28 74 | Dijon, France</p>
+</div>
+<br>
+<h2> Project Quotation: Al Maqar Trading & Contracting Co. LLC</h2>
+  <p><b>Ref: BSTS-Q1-2025</b> | <b>TVA non applicable</b> – Article 293B du CGI, France</p>
+  <p><b>Date:</b> 01 June 2025 | <b>Valid Until:</b> 15 June 2025</p>
+<br>
 
 ## **To:**
 
@@ -132,10 +123,16 @@ The total of 800 OMR is highly competitive for a comprehensive website, branding
 - **Content Requirements:** Client to provide text, images, and PDF content within 3 days of project start to meet timelines.  
 - **Hosting & Domain:** A 1-year plan for the domain and shared hosting server upto 20GB storage is included. If a premium domain is required, it can be arranged separately upon request.
 - **Deliverables:** Final website, branding files, and CMS access released upon full payment.  
-- **Confidentiality:** This quotation is confidential and intended exclusively for Al Maqar Trading & Contracting Co. LLC. It must not be shared, distributed, or disclosed to any third party or company without prior written consent.
 
----
-
-*This quotation reflects freelance services offered by Nauman Hashmi and does not represent any institution or employer.*
+--- 
 
 **Thank you for the opportunity to propose our services. Please confirm acceptance by replying to this email or contacting nauman@landlory.com by 15 June 2025 to initiate the project. We look forward to delivering a quality solution tailored to your needs.**
+
+
+<br><br>
+<div style="background-color: #f5f5f5; padding: 10px; border-top: 2px solid #4CAF50; text-align: center;">
+  <p><b>Contact:</b> Nauman Shafique Hashmi | 📧 nauman@landlory.com | 📞 +33 7 53 69 28 74</p>
+  <p><b>Confidentiality:</b> This quotation is confidential and intended exclusively for Al Maqar Trading & Contracting Co. LLC. It must not be shared, distributed, or disclosed to any third party or company without prior written consent.</p>
+  <p><i>This quotation reflects freelance services offered by Nauman Shafique Hashmi and does not represent any institution or employer.</i></p>
+  <p><b>Please confirm acceptance by 15 June 2025 to initiate the project.</b></p>
+</div>
